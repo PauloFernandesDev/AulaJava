@@ -1,0 +1,12 @@
+package Aula02;
+
+public class Exercicio02 {
+
+	public static void main(String[] args) {
+		int numero = 0;
+		
+		System.out.printf("Informe o numero da semana \n 1- Domingo \n 2-Segunda \n 3-Terça \n 4 - Quarta \n 5 - Quinta \n 6- Secta \n 7 - Sabado: ");
+
+	}
+
+}

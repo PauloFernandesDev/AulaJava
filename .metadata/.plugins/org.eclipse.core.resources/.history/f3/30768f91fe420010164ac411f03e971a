@@ -1,0 +1,12 @@
+package Aula01;
+
+
+public class PrimeiraClasse {
+
+	public static void main(String[] args) {
+		int idade;
+		idade = 18;
+		
+		System.out.print(idade);
+	}
+}
