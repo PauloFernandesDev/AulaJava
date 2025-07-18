@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
     <typeInfo handle="=javapoo/src&lt;heranca{Pessoa.java[Pessoa" modifiers="1" timestamp="1751305619872"/>
-    <typeInfo handle="=javapoo/src&lt;heranca{Animal.java[Animal" modifiers="1" timestamp="1751308645972"/>
+    <typeInfo handle="=javapoo/src&lt;heranca{Animal.java[Animal" modifiers="1" timestamp="1751309725488"/>
+    <typeInfo handle="=javapoo/src&lt;abstrata{Animal.java[Animal" modifiers="1025" timestamp="1752857905939"/>
+    <typeInfo handle="=javapoo/src&lt;abstrata{OperacaoMatematica.java[OperacaoMatematica" modifiers="513" timestamp="1752858582842"/>
+    <typeInfo handle="=javapoo/src&lt;abstrata{Bonificavel.java[Bonificavel" modifiers="513" timestamp="1752859479222"/>
+    <typeInfo handle="=javapoo/src&lt;abstrata{Funcionario.java[Funcionario" modifiers="1025" timestamp="1752859602272"/>
 </typeInfoHistroy>

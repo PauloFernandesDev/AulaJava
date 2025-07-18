@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="jdk.internal.org.jline.terminal.TerminalBuilder.SystemOutput"/>
     <fullyQualifiedTypeName name="com.sun.tools.jdeprscan.scan.Scan"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
@@ -9,12 +8,26 @@
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="javapoo.Atributos"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="metodos.JavaMetodos"/>
     <fullyQualifiedTypeName name="metodos.CalcularMetodos"/>
     <fullyQualifiedTypeName name="metodos.Carro"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="membros.DataNascimento"/>
     <fullyQualifiedTypeName name="heranca.Cachorro"/>
     <fullyQualifiedTypeName name="heranca.Animal"/>
+    <fullyQualifiedTypeName name="encapsulamento.Pessoa"/>
+    <fullyQualifiedTypeName name="jdk.internal.org.jline.terminal.TerminalBuilder.SystemOutput"/>
+    <fullyQualifiedTypeName name="encapsulamento.ContaBancaria"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="encapsulamento.Produto"/>
+    <fullyQualifiedTypeName name="encapsulamento.Aluno"/>
+    <fullyQualifiedTypeName name="encapsulamento.Livro"/>
+    <fullyQualifiedTypeName name="abstrata.Subtracao"/>
+    <fullyQualifiedTypeName name="abstrata.Multiplicacao"/>
+    <fullyQualifiedTypeName name="abstrata.Divisao"/>
+    <fullyQualifiedTypeName name="abstrata.Cachorro"/>
+    <fullyQualifiedTypeName name="abstrata.Gato"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="abstrata.Funcionario"/>
+    <fullyQualifiedTypeName name="abstrata.Programador"/>
+    <fullyQualifiedTypeName name="abstrata.Gerente"/>
 </qualifiedTypeNameHistroy>
